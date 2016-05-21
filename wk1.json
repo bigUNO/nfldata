@@ -2,64 +2,49 @@
   "data": [
     {
       "car @ den": {
-        "date": "20160908",
-        "bye": false
+        "date": "20160908"
       },
       "buf @ bal": {
-        "date": "20161108",
-        "bye": false
+        "date": "20161108"
       },
       "tb @ atl": {
-        "date": "20161108",
-        "bye": false
+        "date": "20161108"
       },
       "sd @ kc": {
-        "date": "20161108",
-        "bye": false
+        "date": "20161108"
       },
       "oak @ no": {
-        "date": "20161108",
-        "bye": false
+        "date": "20161108"
       },
       "cin @ nyj": {
-        "date": "20161108",
-        "bye": false
+        "date": "20161108"
       },
       "chi @ hou": {
-        "date": "20161108",
-        "bye": false
+        "date": "20161108"
       },
       "cle @ phi": {
-        "date": "20161108",
-        "bye": false
+        "date": "20161108"
       },
       "min @ ten": {
-        "date": "20161108",
-        "bye": false
+        "date": "20161108"
       },
       "mia @ sea": {
-        "date": "20161108",
-        "bye": false
+        "date": "20161108"
       },
       "nyg @ dal": {
-        "date": "20161108",
-        "bye": false
+        "date": "20161108"
       },
       "det @ ind": {
-        "date": "20161108",
-        "bye": false
+        "date": "20161108"
       },
       "ne @ ari": {
-        "date": "20161108",
-        "bye": false
+        "date": "20161108"
       },
       "pit @ was": {
-        "date": "20161108",
-        "bye": false
+        "date": "20161108"
       },
       "la @ sf": {
-        "date": "20161108",
-        "bye": false
+        "date": "20161108"
       }
     }
   ]
