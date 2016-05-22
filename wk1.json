@@ -1,51 +1,21 @@
 {
-  "data": [
-    {
-      "car @ den": {
-        "date": "20160908"
-      },
-      "buf @ bal": {
-        "date": "20161108"
-      },
-      "tb @ atl": {
-        "date": "20161108"
-      },
-      "sd @ kc": {
-        "date": "20161108"
-      },
-      "oak @ no": {
-        "date": "20161108"
-      },
-      "cin @ nyj": {
-        "date": "20161108"
-      },
-      "chi @ hou": {
-        "date": "20161108"
-      },
-      "cle @ phi": {
-        "date": "20161108"
-      },
-      "min @ ten": {
-        "date": "20161108"
-      },
-      "mia @ sea": {
-        "date": "20161108"
-      },
-      "nyg @ dal": {
-        "date": "20161108"
-      },
-      "det @ ind": {
-        "date": "20161108"
-      },
-      "ne @ ari": {
-        "date": "20161108"
-      },
-      "pit @ was": {
-        "date": "20161108"
-      },
-      "la @ sf": {
-        "date": "20161108"
-      }
-    }
-  ]
+  "total": 16,
+    "data":[
+        {"n":1, "away":"car", "home":"den", "date":"20160908"},
+        {"n":2, "away":"tb", "home":"atl", "date":"20161108"},
+        {"n":3, "away":"buf", "home":"bal", "date":"20161108"},
+        {"n":4, "away":"chi", "home":"hou", "date":"20161108"},
+        {"n":5, "away":"gb", "home":"jac", "date":"20161108"},
+        {"n":6, "away":"sd", "home":"kc", "date":"20161108"},
+        {"n":7, "away":"oak", "home":"no", "date":"20161108"},
+        {"n":8, "away":"cin", "home":"nyj", "date":"20161108"},
+        {"n":9, "away":"cle", "home":"phi", "date":"20161108"},
+        {"n":10, "away":"min", "home":"ten", "date":"20161108"},
+        {"n":11, "away":"mia", "home":"sea", "date":"20161108"},
+        {"n":12, "away":"nyg", "home":"dal", "date":"20161108"},
+        {"n":13, "away":"det", "home":"ind", "date":"20161108"},
+        {"n":14, "away":"ne", "home":"ari", "date":"20161108"},
+        {"n":15, "away":"pit", "home":"was", "date":"20161208"},
+        {"n":16, "away":"la", "home":"sf", "date":"20161208"}
+    ]
 }
