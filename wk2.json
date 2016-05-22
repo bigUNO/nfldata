@@ -1,0 +1,21 @@
+{
+  "total": 16,
+    "data":[
+        {"n":1, "away":"nyj", "home":"buf", "date":"20161508"},
+        {"n":2, "away":"sf", "home":"car", "date":"20161808"},
+        {"n":3, "away":"bal", "home":"cle", "date":"20161808"},
+        {"n":4, "away":"ten", "home":"det", "date":"20161808"},
+        {"n":5, "away":"kc", "home":"hou", "date":"20161808"},
+        {"n":6, "away":"mia", "home":"ne", "date":"20161808"},
+        {"n":7, "away":"no", "home":"nyg", "date":"20161808"},
+        {"n":8, "away":"cin", "home":"pit", "date":"20161808"},
+        {"n":9, "away":"dal", "home":"was", "date":"20161808"},
+        {"n":10, "away":"tb", "home":"ari", "date":"20161808"},
+        {"n":11, "away":"sea", "home":"la", "date":"20161808"},
+        {"n":12, "away":"ind", "home":"den", "date":"20161808"},
+        {"n":13, "away":"atl", "home":"oak", "date":"20161808"},
+        {"n":14, "away":"jac", "home":"sd", "date":"20161808"},
+        {"n":15, "away":"gb", "home":"min", "date":"20161808"},
+        {"n":16, "away":"phi", "home":"chi", "date":"20161908"}
+    ]
+}
